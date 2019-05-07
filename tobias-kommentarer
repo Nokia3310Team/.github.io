@@ -1,0 +1,6 @@
+2019-05-07
+Snygg och smidig sajt så här långt.
+Jag hoppas dock att du har kommit längre.
+Se över dina indrag i din index-fil rad 15-19 och rad 30 borde ha 8 positioner mindre indrag.
+Koden blir aningen renare om du använder elementet header och main.
+Du har ännu ingen js-fil, men hänvisar till den.
