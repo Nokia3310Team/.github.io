@@ -18,6 +18,7 @@
     font-size: 30px;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, 0.8);   
+    position: absolute;
   }
 
   img{
@@ -66,7 +67,7 @@ a {
   left: 0;
 }
 
-text {
+.text {
   position: absolute;
   width: 100%;
   color: white;
