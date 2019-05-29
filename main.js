@@ -1,3 +1,3 @@
-document.getElementById('1').addEventListener('click', function() {
-  location.href = 'google.com'
-}, false);
+function mySecret() {
+  document.getElementById("secret").innerHTML = "You found a secret. Congratulation.";
+}
