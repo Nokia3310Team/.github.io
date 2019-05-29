@@ -2,13 +2,13 @@
     box-sizing: border-box;
   }
 
-colom1{
+.colom1{
     float: left;
     width: 25%;  
     margin-top: 20px;
 }
 
-colom2{
+.colom2{
   float: left;
   width: 75%;
   padding: 20px;
@@ -92,9 +92,9 @@ ul {
     color: white;
   }
 
-  block{
+  .block{
     float: left;
-    width: 580px;
+    width: 560px;
     border: 3px black solid;
     text-align: center;
     border-radius: 26px 26px 26px 26px;
