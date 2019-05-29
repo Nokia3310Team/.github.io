@@ -73,6 +73,11 @@ div {
     margin: auto;
     text-align: right;
 }
+
+.fiskbild{
+    width: 150 px;
+    height: 100 px;
+}
 /*
 #glassBackground {
     position: fixed;
